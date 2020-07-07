@@ -1,0 +1,13 @@
+.heading{
+    color: brown;
+    text-align: center;
+    margin: 15px;
+    padding: 5px;
+    background-color: cadetblue;
+}
+.ribbons{
+    background-color: coral;
+    margin: 5px;
+    padding: 2px;
+    text-align: center;
+}
